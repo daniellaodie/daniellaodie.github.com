@@ -3,12 +3,13 @@
 ## Source: https://github.com/tommy351/hexo/
 
 # Site
-title: 一锐
-subtitle: ---- 努力成为更好的自己 changing all time
-description: eric's blog | javascript | java
-author: eric
+title: 史蒂文
+subtitle: ---- 努力成为更好的自己 OPEN
+description: steven's blog | web | java | php
+author: steven
 email: eric.i@qq.com
-language: zh-CN
+language: zh-Hans
+avatar: http://7u2q5h.com1.z0.glb.clouddn.com/image/me/german.jpg
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -75,11 +76,12 @@ pagination_dir: page
 
 # Disqus
 disqus_shortname:
+duoshuo_shortname: steven1
 
 # Extensions
 ## Plugins: https://github.com/tommy351/hexo/wiki/Plugins
 ## Themes: https://github.com/tommy351/hexo/wiki/Themes
-theme: modernist
+theme: next
 exclude_generator:
 
 # Markdown
@@ -96,6 +98,6 @@ markdown:
 # Deployment
 ## Docs: http://zespia.tw/hexo/docs/deployment.html
 deploy:
-  type: github
+  type: git
   repository: git@github.com:Eric--/Eric--.github.io.git
   branch: master
