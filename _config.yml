@@ -78,6 +78,13 @@ pagination_dir: page
 disqus_shortname:
 duoshuo_shortname: steven1
 
+# local search
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
+
 # Extensions
 ## Plugins: https://github.com/tommy351/hexo/wiki/Plugins
 ## Themes: https://github.com/tommy351/hexo/wiki/Themes
