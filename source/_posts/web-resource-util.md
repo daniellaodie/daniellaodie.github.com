@@ -2,9 +2,12 @@ title: web 开发相关资源、网站、工具推荐
 date: 2014-03-19 22:33:09
 tags: [编程, 前端]
 ---
+```
+刚开始学习的时候总是跑google去问资源在哪里，有什么网站可以参考，
+使用什么工具，今天花点时间总结一下，方便大家学习
+```
 
-	刚开始学习的时候总是跑google去问资源在哪里，有什么网站可以参考，
-	使用什么工具，今天花点时间总结一下，方便大家学习
+<!--more-->
 
 # 文档
 ***
@@ -14,8 +17,6 @@ tags: [编程, 前端]
 //建议使用英文版，中文版内容不全且更新日期较旧。
 - [MSDN](http://msdn.microsoft.com/zh-cn/ie/aa740473)(Microsoft Developer Network, 微软的文档)
 - [WebPlatform](http://docs.webplatform.org/wiki/Main_Page)(各大公司合作的一个产物，还不成熟)  
-
-<!--more-->
 
 # 教程
 ***
