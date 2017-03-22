@@ -15,18 +15,25 @@ tags: [前端, resume]
 * E-mail：steven@isteven.info
 * 座右铭：努力成为更好的自己！后端出身的前端程序员，执着进取，擅于沟通
 ---
-### 求职意向
-* 工作性质：全职
-* 期望职业：Web开发
-* 期望行业：互联网/电子商务
-* 工作地区：广州
-* 期望月薪：25-35k/月
+### 优势
+* 目前主要方向前端
+    - webpack + gulp + react + es6，配合nodejs工具npm
+    - 有前端工程化+自动化经验, 处理前端异常监控和性能监控
+    - 熟悉chrome remote debug 协议，通过websocket获取数据对移动端问题进行分析
+    - 熟悉android开发，可以深入底层解决h5兼容问题
+    - 前后端引入安全策略，解决官网xss问题
+* 后端主要技术
+    - java 3年， php 2年
+    - java ssh 框架搭建
+    - php kohana框架搭建
+* 客户端方向
+    - Android应用开发
 ---
 ### 工作经历
 * 2014/09 - 至今： 腾讯
     - MIG | 合作开发部 | web开发
     ```
-    1. boss系统研发
+    1. 数据稽核平台研发
     2. 鱼眼监测平台研发
     3. 游戏中心App开发
     ```
@@ -37,7 +44,7 @@ tags: [前端, resume]
     3. 家长监控公众号
     ```
 * 2011/07 - 2014/08： 金蝶
-    - Mig | BI事业部 | Java开发
+    - EAS | BI事业部 | Java开发
     ```
     1. EAS财务系统研发
     2. BI分析中心研发
@@ -65,7 +72,7 @@ tags: [前端, resume]
     - 游戏分发推广app，华为手机内置app   
 * 鱼眼监测平台研发 (2015/03 - 2015/09)
     - 前端angularjs+bootstrap，后端java spring
-* Boss系统研发 (2014/09 - 2015/02)
+* 数据稽核平台 (2014/09 - 2015/02)
     - 前端angularjs+bootstrap，后端java spring
 * 数据蜂房大数据平台 (2014/01 - 2014/08)
     - hadoop 数据平台，公司大数据试点项目
@@ -80,14 +87,10 @@ tags: [前端, resume]
 * H5：angularjs, reactjs, es6, webpack, gulp, nodejs
 * Java: spring, hibernate, netty, mina
 * Php: ci, kohana
-* Android
+* Android: 四大组件+intent
 ---
-### 技能细节
-* 目前主要方向前端
-    - webpack + gulp + react + es6，配合nodejs工具npm
-* 后端主要技术
-    - java 3年， php 2年
-    - java ssh 框架搭建
-    - php kohana框架搭建
-* 客户端方向
-    - Android应用开发
+### 求职意向
+* 工作性质：全职
+* 期望职业：Web开发
+* 期望行业：互联网/电子商务
+* 工作地区：广州
