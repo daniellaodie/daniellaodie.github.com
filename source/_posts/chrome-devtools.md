@@ -52,3 +52,22 @@ ii) 把chrome 加入到你的 path 中（环境变量）
     ```
     - 这里的消息格式要注意，同时你也可以用nodejs进行模拟，推荐ws模块
     - 根据我们发送的信息，我们就可以获得我们需要的数据，数据有了，各种问题的分析就可以迎刃而解了。具体的应用场景后面在讨论。
+
+---
+
+### 深入remote_debug
+* 远程调试android chrome/webview
+    - chrome remote debug 命令  (可以调试也可以查看数据)
+    ```
+    adb forward tcp:9222 localabstract:chrome_devtools_remote
+    ```
+    - webview remote debug 命令  (只能用来查看数据，调试要使用inspect方式)
+    ```
+    adb shell pidof info.isteven.demo(包名) 获取进程id
+    adb forward tcp:9222 localabstract:webview_devtools_remote_<pid>
+    ```
+* chrome 普通调试方法
+```
+chrome://inspect 都可以远程调试js(包括chrome/webview), 但是无法查看ws通讯数据
+```
+* 总结：需要深入数据研究的要使用命令调试，不喜欢折腾的inspect够玩了
