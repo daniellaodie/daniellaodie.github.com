@@ -14,6 +14,7 @@ tags: [前端, resume]
 * 手机：158**5858
 * E-mail：steven@isteven.info
 * 座右铭：努力成为更好的自己！后端出身的前端程序员，执着进取，擅于沟通
+* 博客地址: http://isteven.info/ 
 ---
 ### 优势
 * 目前主要方向前端
