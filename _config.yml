@@ -13,7 +13,7 @@ avatar: http://7u2q5h.com1.z0.glb.clouddn.com/image/me/german.jpg
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://ieric.info
+url: http://isteven.info
 root: /
 permalink: :year/:month/:day/:title/
 tag_dir: tags
