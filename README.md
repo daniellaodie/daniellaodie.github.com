@@ -31,7 +31,7 @@ download theme git clone https://github.com/iissnan/hexo-theme-next themes/next
 	git config --global user.email "steven@isteven.info"
 	git config --global user.name "steven"
 	ssh-keygen -t rsa -C "steven@isteven.info"
-	.ssh 下生成两个人间 rsa公钥秘钥对，id_rsa/id_rsa.pub
+	.ssh 下生成两个rsa公钥秘钥对文件，id_rsa/id_rsa.pub
 	将id_rsa.pub内容copy到github上
 	ssh -vT git@github.com  验证
 ```
