@@ -4,9 +4,6 @@ eric--.github.com
 ## use
 use for hexo
 
-## test ssh git
-ssh -vT git@github.com
-
 ## bak for hexo source   
  博客的源文件，用于电脑变更的迁移
  
@@ -29,7 +26,12 @@ download theme git clone https://github.com/iissnan/hexo-theme-next themes/next
 	local_search:
 		enable: true
 ```
-* 设置ssh链接
+* 设置git hexo ssh链接
 ```
-	hexo ssh
+	git config --global user.email "steven@isteven.info"
+	git config --global user.name "steven"
+	ssh-keygen -t rsa -C "steven@isteven.info"
+	.ssh 下生成两个人间 rsa公钥秘钥对，id_rsa/id_rsa.pub
+	将id_rsa.pub内容copy到github上
+	ssh -vT git@github.com  验证
 ```
