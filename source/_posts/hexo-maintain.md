@@ -66,6 +66,5 @@ tags: [hexo, node, git]
 
 ### 维护
 * 保证<font color="red">源文件库 eric--.github.com</font>最新状态
-* 本地<font color="red">hexo init</font>后，用源文件库来覆盖本地文件
 * 本地文件<font color="red">hexo d</font>后, 代码生成库更新到最新状态
 * 重要的是维护好源文件库的三个文件<font color="red">source，_config.yml，package.json</font>
