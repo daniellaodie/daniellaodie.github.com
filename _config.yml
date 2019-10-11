@@ -9,7 +9,7 @@ description: steven's blog | web | java | php
 author: steven
 email: eric.i@qq.com
 language: zh-Hans
-avatar: http://7u2q5h.com1.z0.glb.clouddn.com/image/me/german.jpg
+avatar: http://bitonair.com/download/portrait.jpg
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -76,7 +76,7 @@ pagination_dir: page
 
 # Disqus
 disqus_shortname:
-duoshuo_shortname: steven1
+# duoshuo_shortname: steven1
 
 # local search
 search:
