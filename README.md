@@ -1,4 +1,4 @@
-eric--.github.com
+daniellaodie.github.com
 =================
 
 ## use
@@ -6,12 +6,12 @@ use for hexo
 
 ## bak for hexo source   
 * 博客的源文件，用于电脑变更的迁移
-* eric--.github.io 这个库是 hexo deploy 的目标
+* daniellaodie.github.io 这个库是 hexo deploy 的目标
  
 ## 迁移步骤
 * copy source
 ```
-git clone https://github.com/Eric--/eric--.github.com.git hexo
+git clone https://github.com/daniellaodie/daniellaodie.github.com.git hexo
 ```
 * 安装依赖
 ```
