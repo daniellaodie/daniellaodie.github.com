@@ -37,3 +37,22 @@ git clone https://github.com/iissnan/hexo-theme-next themes/next
 	将id_rsa.pub内容copy到github上
 	ssh -vT git@github.com  验证
 ```
+
+## hexo命令
+常用命令
+```
+hexo n == hexo new
+hexo g == hexo generate
+hexo s == hexo server
+hexo d == hexo deploy
+```
+常用复合命令
+```
+hexo d -g
+hexo s -g
+```
+#### 切换node版本
+node的最新版本不支持hexo deploy，需要切换回12版本
+```
+nvs use taobao/12.16.0/x64
+```
