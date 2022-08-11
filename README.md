@@ -24,6 +24,8 @@ git clone https://github.com/iissnan/hexo-theme-next themes/next
 ```
 * 配置主题（因为主题文件重新下载，所以要重新配置 themes目录下的 _config.yml）
 ```
+	menu:
+		tags: /tags/ || tags
 	scheme: Pisces
 	local_search:
 		enable: true
