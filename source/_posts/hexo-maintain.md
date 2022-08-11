@@ -10,7 +10,7 @@ tags: [hexo, node, git]
 <!--more-->
 
 ### Github 两个库
-#### 代码生成库  <font color="red">Eric--.github.io</font> (这个是 <font color="red">hexo d</font> 自动部署的)
+#### 代码生成库  <font color="red">daniellaodie.github.io</font> (这个是 <font color="red">hexo d</font> 自动部署的)
 * 目录结构
 ```
 .
@@ -31,7 +31,7 @@ tags: [hexo, node, git]
 ├── index.html
 └── CNAME
 ```
-#### 源文件库 <font color="red">eric--.github.com</font>
+#### 源文件库 <font color="red">daniellaodie.github.com</font>
 * 目录结构
 ```
 .
@@ -65,6 +65,6 @@ tags: [hexo, node, git]
 ---
 
 ### 维护
-* 保证<font color="red">源文件库 eric--.github.com</font>最新状态
+* 保证<font color="red">源文件库 daniellaodie.github.com</font>最新状态
 * 本地文件<font color="red">hexo d</font>后, 代码生成库更新到最新状态
 * 重要的是维护好源文件库的三个文件<font color="red">source，_config.yml，package.json</font>
